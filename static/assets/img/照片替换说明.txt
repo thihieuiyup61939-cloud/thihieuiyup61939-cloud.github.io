@@ -1,0 +1,4 @@
+请将你的正式个人照片命名为 photo.png，并上传到：
+static/assets/img/photo.png
+
+本文件不会替换仓库中的现有图片。
