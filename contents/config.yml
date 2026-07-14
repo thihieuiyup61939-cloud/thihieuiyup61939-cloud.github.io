@@ -1,0 +1,50 @@
+title: Yezi Chen | Climate Economics and Policy
+page-top-title: Yezi Chen
+top-section-bg-text: Climate Policy & Integrated Assessment Modeling
+
+backgrounds:
+  - static/assets/background/background_0.jpeg
+  - static/assets/background/background_1.jpeg
+background-interval-ms: 7000
+background-overlay: 0.58
+
+copyright-text: '&copy; Yezi Chen 2026. All Rights Reserved.'
+
+github-link:
+  text: GitHub
+  href: https://github.com/thihieuiyup61939-cloud
+
+license-link:
+  text: CV
+  href: static/assets/cv/Yezi_Chen_Academic_CV.pdf
+
+sections:
+  - id: home
+    nav: HOME
+    title: Yezi Chen&ensp;|&ensp;陈烨紫
+    href: '#page-top'
+
+  - id: research
+    nav: RESEARCH
+    title: RESEARCH
+    icon: bi-graph-up-arrow
+
+  - id: experience
+    nav: EXPERIENCE
+    title: RESEARCH EXPERIENCE
+    icon: bi-briefcase-fill
+
+  - id: training
+    nav: TRAINING
+    title: ACADEMIC TRAINING
+    icon: bi-mortarboard-fill
+
+  - id: skills
+    nav: SKILLS
+    title: METHODS & SKILLS
+    icon: bi-tools
+
+  - id: cv
+    nav: CV
+    title: CURRICULUM VITAE
+    icon: bi-file-earmark-person-fill
