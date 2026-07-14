@@ -1,4 +1,3 @@
-<img src="static/assets/img/photo.png" alt="Yezi Chen" width="180" style="float:right; margin-left:28px; margin-bottom:16px; border-radius:8px;">
 
 I am a master's student in **Business Administration at Guangxi University**, with an expected graduation date of **June 2027**. My research focuses on **integrated assessment modeling, climate policy evaluation, industrial decarbonization, and carbon-price feedbacks**.
 
