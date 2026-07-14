@@ -1,0 +1,36 @@
+title: Zifeng Yang's Homepage
+page-top-title: Zifeng Yang
+top-section-bg-text: Artificial Intelligence
+
+backgrounds:
+  - static/assets/background/background_0.jpeg
+  - static/assets/background/background_1.jpeg
+
+background-interval-ms: 7000
+background-overlay: 0.52
+
+copyright-text: '&copy; Zifeng Yang 2026. All Rights Reserved.'
+
+github-link:
+  text: GitHub
+  href: https://github.com/cyzf1007hh
+
+license-link:
+  text: License
+  href: https://github.com/cyzf1007hh/cyzf1007hh.github.io/blob/main/LICENSE
+
+sections:
+  - id: home
+    nav: HOME
+    title: Zifeng Yang&ensp;|&ensp;杨子沣
+    href: '#page-top'
+
+  - id: publications
+    nav: PUBLICATIONS
+    title: PUBLICATIONS
+    icon: bi-file-text-fill
+
+  - id: awards
+    nav: AWARDS
+    title: HONORS & AWARDS
+    icon: bi-award-fill
